@@ -1,10 +1,11 @@
 ![](images/logo_TECT.png)
 
-### Carta de Bienvenida al Taller de Base de Datos
+### Bienvenida al Taller de Base de Datos
+
 
 Estimados estudiantes,
 
-Es un placer darles la más cálida bienvenida al Taller de Base de Datos de este semestre en el Instituto Tecnológico de Tijuana. Me llamo [Tu Nombre], y seré su guía y mentor a lo largo de esta emocionante travesía por el mundo de las bases de datos.
+Es un placer darles la más cálida bienvenida al Taller de Base de Datos de este semestre en el Instituto Tecnológico de Tijuana. Me llamo Rene Solis, y seré su guía y mentor a lo largo de esta emocionante travesía por el mundo de las bases de datos.
 
 En este taller, nos adentraremos en los fundamentos y técnicas avanzadas que rigen el almacenamiento, manipulación y recuperación de datos. Vivimos en la era de la información, donde los datos son el recurso más valioso, y saber cómo gestionarlos eficazmente es una habilidad indispensable en casi cualquier campo profesional.
 
@@ -18,7 +19,7 @@ Bienvenidos al inicio de un semestre lleno de aprendizaje, crecimiento y descubr
 
 Con los mejores deseos para un exitoso inicio de curso,
 
-Rene Solis R. 
+MC. Rene Solis R.  (@IoTeacher)
 Docente Depto de Sistemas
 CTO de Amazon Web Service para TecNM ITT
 Instituto Tecnológico de Tijuana
@@ -34,6 +35,7 @@ Instituto Tecnológico de Tijuana
 | Nombre  | MC. RENE SOLIS REYES     |
 | Carrera | ING.SIST.COMP.           |
 | Materia | TALLER DE BASES DE DATOS |
+| Revision | 2016 |
 
 | Lunes                    | Martes                   | Miercoles                | Jueves                   | 
 |--------------------------|--------------------------|--------------------------|--------------------------|
