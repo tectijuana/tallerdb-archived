@@ -1,5 +1,7 @@
 ![](images/logo_TECT.png)
 
+![](images/tallerdb.png)
+
 | Nombre  | Descripcion
 |---------|--------------------------|
 | Nombre  | MC. RENE SOLIS REYES     |
