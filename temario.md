@@ -49,5 +49,7 @@
 ||6.2 Conectividad desde un lenguaje huésped o en dispositivos móviles 		|						
 
  <!-- Temario Oficial Cambiar por el TENCM Tijuana -->
-       LINK Temario Oficial via https://informatica.voaxaca.tecnm.mx/wp-content/uploads/2022/03/TIB-2006-Patrones-de-diseno.pdf
+
+ <a href="https://informatica.voaxaca.tecnm.mx/wp-content/uploads/2022/03/TIB-2006-Patrones-de-diseno.pdf" target="_blank">Temario Oficial PDD</a>
+
 
