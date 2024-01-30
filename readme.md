@@ -1,6 +1,6 @@
 ![](images/logo_TECT.png)
 ### Bienvenida al Taller de Base de Datos
-
+![](https://avatars.githubusercontent.com/u/2523851?v=4)
 
 Estimados estudiantes,
 
