@@ -1,6 +1,7 @@
-![](images/logo_TECT.png)
+![](images/logo_TECT.png) <!-- Escalar una imagen 200x200 -->
+<img src="https://avatars.githubusercontent.com/u/2523851?v=4" width="200" height="200" />
 ### Bienvenida al Taller de Base de Datos
-![](https://avatars.githubusercontent.com/u/2523851?v=4)
+
 
 Estimados estudiantes,
 
