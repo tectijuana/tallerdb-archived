@@ -1,4 +1,4 @@
-
+![](images/logo_TECT.png)
 ### Bienvenida al Taller de Base de Datos
 
 
