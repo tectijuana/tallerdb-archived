@@ -24,4 +24,9 @@ MC. Rene Solis R.  (@IoTeacher)
 <br> CTO de Amazon Web Service para TecNM ITT 
 <br> Instituto Tecnológico de Tijuana_ 
 
+----
 
+REGISTRO 2024a
+Formulario de estudiantes 2024a
+
+https://forms.gle/ViCfFPmKLUvCp5ch6
