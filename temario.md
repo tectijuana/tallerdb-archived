@@ -50,6 +50,6 @@
 
  <!-- Temario Oficial Cambiar por el TENCM Tijuana -->
 
- <a href="https://informatica.voaxaca.tecnm.mx/wp-content/uploads/2022/03/TIB-2006-Patrones-de-diseno.pdf" target="_blank">Temario Oficial PDD</a>
+ <a href="   http://ith.mx/documentos/reticulas/sistemas/Semestre%205/Taller%20de%20base%20de%20datos.pdf " target="_blank">Temario Oficial PDD</a>
 
 
