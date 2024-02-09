@@ -1,4 +1,4 @@
-![Calendario TallerDB24a](https://github.com/tectijuana/tallerdb/assets/2523851/d80682d0-c369-4120-beb8-d9e69476ccf9)
+
 ![](images/logo_TECT.png) <!-- Escalar una imagen 200x200 -->
 <img src="https://avatars.githubusercontent.com/u/2523851?v=4" width="200" height="200" />
 ### Bienvenida al Taller de Base de Datos
@@ -31,3 +31,8 @@ REGISTRO 2024a
 Formulario de estudiantes 2024a
 
 https://forms.gle/ViCfFPmKLUvCp5ch6
+
+
+---
+
+![Calendario TallerDB24a](https://github.com/tectijuana/tallerdb/assets/2523851/d80682d0-c369-4120-beb8-d9e69476ccf9)
