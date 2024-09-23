@@ -30,9 +30,9 @@ MC. Rene Solis R.  (@IoTeacher)
 REGISTRO 2024a
 Formulario de estudiantes 2024a
 
-https://forms.gle/ViCfFPmKLUvCp5ch6
+
 
 
 ---
 
-![Calendario TallerDB24a](https://github.com/tectijuana/tallerdb/assets/2523851/d80682d0-c369-4120-beb8-d9e69476ccf9)
+
